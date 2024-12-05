@@ -21,4 +21,5 @@ This Spa Appointment Booking System is built using Node.js and Express.js. The s
    ```bash
    git clone https://github.com/skycoder3899/spa-appointment-booking.git
    cd spa-appointment-booking
+   npm install
    node app.js
